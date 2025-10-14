@@ -1,0 +1,6 @@
+.DS_Store
+.ipynb_checkpoints/
+10_ObjectDetection_with*
+people.jpeg
+yolov5/
+yolo-face/
